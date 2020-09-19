@@ -1,5 +1,10 @@
 .top-of-page {
     color: red;
+    display: inline;
     /*width: 150px;
     height: 100px;*/   
+}
+
+.subtitle{
+    display:inline;
 }
