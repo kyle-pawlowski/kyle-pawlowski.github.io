@@ -21,4 +21,11 @@
 .contact {
     display:flex; 
     align-items: center;
+    justify-content: space-around;
 }
+
+.electrical{
+    background-image: url("images/circuit-board.jpg");
+    background-repeat: no-repeat;
+    
+ }
