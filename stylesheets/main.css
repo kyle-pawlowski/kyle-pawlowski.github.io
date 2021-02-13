@@ -25,7 +25,20 @@
 }
 
 .electrical{
-    background-image: url("images/circuit-board.jpg");
-    background-repeat: no-repeat;
     
+ }
+
+.background{
+    height: 50em;
+    width: 100%;
+    background-image: url("../images/circuit-board.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.5;
+    margin-top: 5em;
+ }
+ 
+ .list{
+    position:relative;
+    bottom: 50em;
  }
